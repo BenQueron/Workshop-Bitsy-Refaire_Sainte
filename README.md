@@ -1,4 +1,4 @@
-# Workshop-Bitsy-Saint-low-rez
+# Workshop-Bitsy-Sainté-low-rez
 
 Pour télécharger l'ensemble des fichiers, il vous suffit de sélectionner le dossier complet qui sera téléchargé en compressé. Vous pouvez également télécharger les jeux individuellement en sélectionnant uniquement le jeu bitsy qui vous intéresse. 
 
@@ -31,4 +31,16 @@ Vous n'avez plus qu'à ouvrir votre site web en cliquant sur le fichier index.ht
 
 Pour jouer il suffit de cliquer sur le jeu avec la souris et ensuite d'utiliser les flèches. Pour revenir à de la navigation web il faut cliquer à côté du jeu. 
 
-Le dernier fichier index.js permet de récupérer des informations comme le fait de cliquer sur un jeu ou les déplacements de la souris. De ce fait, il devient possible pour vous de rajouter des interactions JavaScript en plus des jeux si vous le souhaitez: texte animé, faire apparaitre ou disparaitre du contenu... etc. 
+![image](https://github.com/BenQueron/Workshop-Bitsy-Saint-low-rez/assets/64792923/af6e09a5-708d-470f-ad45-addf140c12b0)
+
+Pou ajouter le texte de présentation en dessous des jeux, vous pouvez directemment écrire du texte dans le fichier index.html au sein d'une balise <p>. Tout comme les jeux, les insérer au sein d'une balise permet ensuite de les mettre en page plus facilement:
+
+![image](https://github.com/BenQueron/Workshop-Bitsy-Saint-low-rez/assets/64792923/f079d935-7655-4b5d-96f9-6d8cf6519c90)
+
+
+Le dernier fichier index.js permet de récupérer des informations comme le fait de cliquer sur un jeu ou les déplacements de la souris. De ce fait, il devient possible pour vous de rajouter des interactions JavaScript en plus des jeux si vous le souhaitez: texte animé, faire apparaitre ou disparaitre du contenu... etc:
+
+![image](https://github.com/BenQueron/Workshop-Bitsy-Saint-low-rez/assets/64792923/01f60878-9315-46c3-a404-b4a2954f899b)
+
+Vous avez désormais toute une structure pour exporter vos jeux bitsy directemment pour le web ou pour les intégrer à votre propre site web et créer des interactions personnalisées en JavaScript. 
+
