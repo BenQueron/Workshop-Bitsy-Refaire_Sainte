@@ -1,5 +1,7 @@
 # Workshop-Bitsy-Sainté-low-rez
 
+Workshop d'initiation à un outil de création de jeux vidéos indépendant à l'aide de bitsy, de multi-bitsy, des langages HTML, CSS et JavaScript. Ce workshop a eu lieu au sein de l'ESADSE et a été coordonné par Benoit Quéron dans le cadre d'un stage de recherche au sein du Random(lab), sous la supervision de David-Olivier Lartigaud.
+
 Pour télécharger l'ensemble des fichiers, il vous suffit de sélectionner le dossier complet qui sera téléchargé en compressé. Vous pouvez également télécharger les jeux individuellement en sélectionnant uniquement le jeu bitsy qui vous intéresse. 
 
 Le fichier index.html sert de structure d'ensemble. C'est le fichier qui réuni tous les jeux en un seul site web. Il fonctionne avec deux autres documents qui lui sont associés: un document style.css qui permet de faire la mise en page des éléments, et un document index.js qui gère les interactions sur le site web. 
