@@ -12,6 +12,8 @@ https://switch-b.itch.io/multi-bitsy
 
 ![image](https://github.com/BenQueron/Workshop-Bitsy-Saint-low-rez/assets/64792923/0ba303e4-69e6-42bd-a652-bd14a218a23a)
 
+Je ne suis pas l'auteur de cet outil mais il permet de compresser les bitsy pour les intégrer plus facilement à de spages web. Je vous invite donc à consulter leur travail, ainsi que l'emploi de cet outil par le Pang Pang Club et Eniarof. Cependant, à la différence de multi-bitsy, nous allons ici créer nous-même l'architecture qui va héberger tous nos jeux.
+
 Une fois ce fichier téléchargé, vous devez l'enregistrer dans le dossier contenant vos fichiers index.html, style.css et index.js. 
 
 ![image](https://github.com/BenQueron/Workshop-Bitsy-Saint-low-rez/assets/64792923/161a91b9-5675-4c4a-8097-e239a3ea4e2a)
