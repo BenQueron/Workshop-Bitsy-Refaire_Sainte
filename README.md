@@ -24,6 +24,11 @@ Pour indiquer quel jeu vous voulez vous devez utiliser le lien: src='nomdevotrej
 
 ![image](https://github.com/BenQueron/Workshop-Bitsy-Saint-low-rez/assets/64792923/73226a51-02e2-45dd-83f1-c2e6d058bda9)
 
-Vous n'avez plus qu'à ouvrir votre site web en cliquant sur le fichier index.html et votre jeu sera intégré dans une page web! Pour la mise en page, vous pouvez désormais modifier l'organisation dans la page de la balise <iframe> qui contient votre jeu. Pour jouer il suffit de cliquer sur le jeu avec la souris et ensuite d'utiliser les flèches. Pour revenir à de la navigation web il faut cliquer à côté du jeu. 
+Vous n'avez plus qu'à ouvrir votre site web en cliquant sur le fichier index.html et votre jeu sera intégré dans une page web! Pour la mise en page, vous pouvez désormais modifier l'organisation dans la page de la balise <iframe> qui contient votre jeu. Pour faciliter la mise en page, les balises <iframe> ont un système d'identification. Chaque <iframe> possède une <class> qui lui donne un nom. Ici, elles ont toutes le nom: <class='iframeClass'>. Pour les mettre en page, vous devez vous rendre dans le fichier style.css et c'est la commande: .iframeClass {} qui vous permettra ensuite de mettre en page le jeu avec du code css. 
+
+
+![image](https://github.com/BenQueron/Workshop-Bitsy-Saint-low-rez/assets/64792923/13b9da85-b0e3-4b3f-9540-d3caea7755a1)
+
+Pour jouer il suffit de cliquer sur le jeu avec la souris et ensuite d'utiliser les flèches. Pour revenir à de la navigation web il faut cliquer à côté du jeu. 
 
 Le dernier fichier index.js permet de récupérer des informations comme le fait de cliquer sur un jeu ou les déplacements de la souris. De ce fait, il devient possible pour vous de rajouter des interactions JavaScript en plus des jeux si vous le souhaitez: texte animé, faire apparaitre ou disparaitre du contenu... etc. 
